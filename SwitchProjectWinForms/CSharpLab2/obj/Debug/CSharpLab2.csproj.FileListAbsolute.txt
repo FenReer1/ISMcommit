@@ -1,0 +1,10 @@
+E:\ISM\SwitchProjectWinForms\CSharpLab2\bin\Debug\CSharpLab2.exe.config
+E:\ISM\SwitchProjectWinForms\CSharpLab2\bin\Debug\CSharpLab2.exe
+E:\ISM\SwitchProjectWinForms\CSharpLab2\bin\Debug\CSharpLab2.pdb
+E:\ISM\SwitchProjectWinForms\CSharpLab2\obj\Debug\CSharpLab2.csprojAssemblyReference.cache
+E:\ISM\SwitchProjectWinForms\CSharpLab2\obj\Debug\CSharpLab2.Form1.resources
+E:\ISM\SwitchProjectWinForms\CSharpLab2\obj\Debug\CSharpLab2.Properties.Resources.resources
+E:\ISM\SwitchProjectWinForms\CSharpLab2\obj\Debug\CSharpLab2.csproj.GenerateResource.cache
+E:\ISM\SwitchProjectWinForms\CSharpLab2\obj\Debug\CSharpLab2.csproj.CoreCompileInputs.cache
+E:\ISM\SwitchProjectWinForms\CSharpLab2\obj\Debug\CSharpLab2.exe
+E:\ISM\SwitchProjectWinForms\CSharpLab2\obj\Debug\CSharpLab2.pdb

@@ -1,0 +1,4 @@
+E:\ISM\ISMLoops\DoWhileConsole1\obj\Debug\netcoreapp2.1\DoWhileConsole1.csprojAssemblyReference.cache
+E:\ISM\ISMLoops\DoWhileConsole1\obj\Debug\netcoreapp2.1\DoWhileConsole1.csproj.CoreCompileInputs.cache
+E:\ISM\ISMLoops\DoWhileConsole1\obj\Debug\netcoreapp2.1\DoWhileConsole1.AssemblyInfoInputs.cache
+E:\ISM\ISMLoops\DoWhileConsole1\obj\Debug\netcoreapp2.1\DoWhileConsole1.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+E:\ISM\ISMLoops\ForConsole3\obj\Debug\netcoreapp2.1\ForConsole3.csprojAssemblyReference.cache
+E:\ISM\ISMLoops\ForConsole3\obj\Debug\netcoreapp2.1\ForConsole3.csproj.CoreCompileInputs.cache
+E:\ISM\ISMLoops\ForConsole3\obj\Debug\netcoreapp2.1\ForConsole3.AssemblyInfoInputs.cache
+E:\ISM\ISMLoops\ForConsole3\obj\Debug\netcoreapp2.1\ForConsole3.AssemblyInfo.cs
+E:\ISM\ISMLoops\ForConsole3\bin\Debug\netcoreapp2.1\ForConsole3.deps.json
+E:\ISM\ISMLoops\ForConsole3\bin\Debug\netcoreapp2.1\ForConsole3.runtimeconfig.json
+E:\ISM\ISMLoops\ForConsole3\bin\Debug\netcoreapp2.1\ForConsole3.runtimeconfig.dev.json
+E:\ISM\ISMLoops\ForConsole3\bin\Debug\netcoreapp2.1\ForConsole3.dll
+E:\ISM\ISMLoops\ForConsole3\bin\Debug\netcoreapp2.1\ForConsole3.pdb
+E:\ISM\ISMLoops\ForConsole3\obj\Debug\netcoreapp2.1\ForConsole3.dll
+E:\ISM\ISMLoops\ForConsole3\obj\Debug\netcoreapp2.1\ForConsole3.pdb

@@ -82,5 +82,10 @@ namespace WinFormTask
             System.Threading.Thread.CurrentThread.CurrentCulture = customCulture;
 
         }
+
+        private void X_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

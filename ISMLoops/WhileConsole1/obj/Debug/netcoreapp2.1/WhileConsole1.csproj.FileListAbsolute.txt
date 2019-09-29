@@ -1,0 +1,11 @@
+E:\ISM\ISMLoops\WhileConsole1\obj\Debug\netcoreapp2.1\WhileConsole1.csproj.CoreCompileInputs.cache
+E:\ISM\ISMLoops\WhileConsole1\obj\Debug\netcoreapp2.1\WhileConsole1.AssemblyInfoInputs.cache
+E:\ISM\ISMLoops\WhileConsole1\obj\Debug\netcoreapp2.1\WhileConsole1.AssemblyInfo.cs
+E:\ISM\ISMLoops\WhileConsole1\bin\Debug\netcoreapp2.1\WhileConsole1.deps.json
+E:\ISM\ISMLoops\WhileConsole1\bin\Debug\netcoreapp2.1\WhileConsole1.runtimeconfig.json
+E:\ISM\ISMLoops\WhileConsole1\bin\Debug\netcoreapp2.1\WhileConsole1.runtimeconfig.dev.json
+E:\ISM\ISMLoops\WhileConsole1\bin\Debug\netcoreapp2.1\WhileConsole1.dll
+E:\ISM\ISMLoops\WhileConsole1\bin\Debug\netcoreapp2.1\WhileConsole1.pdb
+E:\ISM\ISMLoops\WhileConsole1\obj\Debug\netcoreapp2.1\WhileConsole1.csprojAssemblyReference.cache
+E:\ISM\ISMLoops\WhileConsole1\obj\Debug\netcoreapp2.1\WhileConsole1.dll
+E:\ISM\ISMLoops\WhileConsole1\obj\Debug\netcoreapp2.1\WhileConsole1.pdb

@@ -1,0 +1,11 @@
+E:\ISM\ISMConditionalStatements\SwitchProjectConsole\bin\Debug\netcoreapp2.1\SwitchProjectConsole.deps.json
+E:\ISM\ISMConditionalStatements\SwitchProjectConsole\bin\Debug\netcoreapp2.1\SwitchProjectConsole.runtimeconfig.json
+E:\ISM\ISMConditionalStatements\SwitchProjectConsole\bin\Debug\netcoreapp2.1\SwitchProjectConsole.runtimeconfig.dev.json
+E:\ISM\ISMConditionalStatements\SwitchProjectConsole\bin\Debug\netcoreapp2.1\SwitchProjectConsole.dll
+E:\ISM\ISMConditionalStatements\SwitchProjectConsole\bin\Debug\netcoreapp2.1\SwitchProjectConsole.pdb
+E:\ISM\ISMConditionalStatements\SwitchProjectConsole\obj\Debug\netcoreapp2.1\SwitchProjectConsole.csprojAssemblyReference.cache
+E:\ISM\ISMConditionalStatements\SwitchProjectConsole\obj\Debug\netcoreapp2.1\SwitchProjectConsole.csproj.CoreCompileInputs.cache
+E:\ISM\ISMConditionalStatements\SwitchProjectConsole\obj\Debug\netcoreapp2.1\SwitchProjectConsole.AssemblyInfoInputs.cache
+E:\ISM\ISMConditionalStatements\SwitchProjectConsole\obj\Debug\netcoreapp2.1\SwitchProjectConsole.AssemblyInfo.cs
+E:\ISM\ISMConditionalStatements\SwitchProjectConsole\obj\Debug\netcoreapp2.1\SwitchProjectConsole.dll
+E:\ISM\ISMConditionalStatements\SwitchProjectConsole\obj\Debug\netcoreapp2.1\SwitchProjectConsole.pdb

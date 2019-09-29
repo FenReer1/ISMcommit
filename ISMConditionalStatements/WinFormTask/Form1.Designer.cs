@@ -93,15 +93,16 @@
             // x
             // 
             this.x.Location = new System.Drawing.Point(56, 50);
-            this.x.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.x.Margin = new System.Windows.Forms.Padding(2);
             this.x.Name = "x";
             this.x.Size = new System.Drawing.Size(108, 20);
             this.x.TabIndex = 4;
+            this.x.TextChanged += new System.EventHandler(this.X_TextChanged);
             // 
             // y
             // 
             this.y.Location = new System.Drawing.Point(56, 84);
-            this.y.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.y.Margin = new System.Windows.Forms.Padding(2);
             this.y.Name = "y";
             this.y.Size = new System.Drawing.Size(108, 20);
             this.y.TabIndex = 5;
@@ -109,7 +110,7 @@
             // z
             // 
             this.z.Location = new System.Drawing.Point(56, 118);
-            this.z.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.z.Margin = new System.Windows.Forms.Padding(2);
             this.z.Name = "z";
             this.z.Size = new System.Drawing.Size(108, 20);
             this.z.TabIndex = 6;
@@ -117,7 +118,7 @@
             // r
             // 
             this.r.Location = new System.Drawing.Point(54, 246);
-            this.r.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.r.Margin = new System.Windows.Forms.Padding(2);
             this.r.Name = "r";
             this.r.ReadOnly = true;
             this.r.Size = new System.Drawing.Size(108, 20);
@@ -128,7 +129,7 @@
             this.result.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.result.Font = new System.Drawing.Font("Arial Narrow", 14F);
             this.result.Location = new System.Drawing.Point(56, 166);
-            this.result.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.result.Margin = new System.Windows.Forms.Padding(2);
             this.result.Name = "result";
             this.result.Size = new System.Drawing.Size(107, 38);
             this.result.TabIndex = 8;
@@ -165,7 +166,7 @@
             this.Controls.Add(this.y1);
             this.Controls.Add(this.x1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(439, 427);
             this.MinimumSize = new System.Drawing.Size(192, 332);
